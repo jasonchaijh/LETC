@@ -22,11 +22,3 @@ $$
 $$
 
 ### Citation
-
-
-
-
-
-# LETC
-# LETC
-# LETC
