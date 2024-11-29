@@ -12,10 +12,10 @@ For the product 'Misc School Supplies SKU 17', set `selected=0` at the beginning
 
 
 The demand model has the following linear form:
-`D_t=x_t^T {\alpha}^\star+p_t({x}_t^T {\beta}^\star)+\epsilon_t`
+$D_t=x_t^T {\alpha}^\star+p_t({x}_t^T {\beta}^\star)+\epsilon_t$
 
 
 And we are trying to minimize the regret defined as
-`\mathcal{R}(T):=\sum_{t=1}^T p^\star(x_t)\left(x_t^T {\alpha}^\star+p^\star(x_t){x}_t^T {\beta}^\star\right)- p_t\left(x_t^T {\alpha}^\star+p_t{x}_t^T {\beta}^\star\right)`
+$\mathcal{R}(T):=\sum_{t=1}^T p^\star(x_t)\left(x_t^T {\alpha}^\star+p^\star(x_t){x}_t^T {\beta}^\star\right)- p_t\left(x_t^T {\alpha}^\star+p_t{x}_t^T {\beta}^\star\right)$
 
 ### Citation
